@@ -1,0 +1,20 @@
+{
+  "name": "tezus/correios",
+  "description": "Tezus Correios",
+  "minimum-stability": "stable",
+  "require": {},
+  "type": "magento2-module",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Tezus\\Correios\\": ""
+    }
+  },
+  "version": "1.0.0"
+}
